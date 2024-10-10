@@ -1,0 +1,25 @@
+header{
+    background-color: blue; color: white;
+}
+
+.container{ background-color: lightgray; color: black;}
+
+.highlight{background-color: green;}
+
+.main-content{
+background-color: yellow;
+}
+
+#id1{
+    text-align: center;
+}
+
+a{text-decoration-line: none;}
+
+.dash{text-decoration-line:underline;text-decoration-style: dashed;}
+.BoldText{font-weight: bold;}
+.intro{font-weight:300;}
+#body{font-family: Arial, sans-serif;}
+.custom-font{font-family: 'Times New Roman', Times, serif;}
+#id3{text-transform: uppercase;}
+.capitalized-text{text-transform: capitalize;}
